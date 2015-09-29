@@ -12,3 +12,6 @@ By using git add and then git diff (...???) to check the diff between the files 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 experiments in programming, different languages, mobile site vs desktop site, different levels for games. 
+
+How do the diagrams help you visualize the branch structure?
+by showing it's logic and it's non-linearness.
