@@ -9,3 +9,6 @@ You may want to make changes to some files (if you previously created a bug), bu
 
 How can you use the staging area to make sure you have one commit per logical change?
 By using git add and then git diff (...???) to check the diff between the files already commited and those you are about to commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+experiments in programming, different languages, mobile site vs desktop site, different levels for games. 
