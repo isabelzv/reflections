@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 working directory has the files in their current state or whatever state they were in, if you choose to checkout a 
 previous commit. The staging area is used to hold files on which you want to make a commit. 
 You may want to make changes to some files (if you previously created a bug), but not others (if you created valuable changes).
+
+How can you use the staging area to make sure you have one commit per logical change?
+By using git add and then git diff (...???) to check the diff between the files already commited and those you are about to commit. 
