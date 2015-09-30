@@ -18,3 +18,7 @@ by showing it's logic and it's non-linearness.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 you get the updates from both of them. To show the history of the commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: faster 
+cons: may create a error that user can't find.
