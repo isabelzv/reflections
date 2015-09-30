@@ -15,3 +15,6 @@ experiments in programming, different languages, mobile site vs desktop site, di
 
 How do the diagrams help you visualize the branch structure?
 by showing it's logic and it's non-linearness.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+you get the updates from both of them. To show the history of the commits.
