@@ -3,3 +3,8 @@ so that you can share your work; view and edit it from another machine; back it 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If other people are making changes to your code you would DEFINITELY want to pick and choose what changes to make to your local version.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork: creating a "clone" on GitHub's servers (easier than cloning and then pushing to your own account, if you want to carry on editing in GitHub. Give credit to creator).
+clone: copying all of the files and commits in a repository from GitHub onto your own machine (good if you just want to edit on your machine and don't want to repost onto GitHub).
+branch: a clone or fork of all the existing code which you can add changes to without effecting the master (good for experiments)
