@@ -11,3 +11,6 @@ branch: a clone or fork of all the existing code which you can add changes to wi
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so that you can check your changes against any new changes that have been made and decide whether you want to incorpret them. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+you would have to manually compare and merge. It would be way harder and more time consuming. You would have to get together a lot.
