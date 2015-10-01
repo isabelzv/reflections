@@ -7,4 +7,7 @@ If other people are making changes to your code you would DEFINITELY want to pic
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 fork: creating a "clone" on GitHub's servers (easier than cloning and then pushing to your own account, if you want to carry on editing in GitHub. Give credit to creator).
 clone: copying all of the files and commits in a repository from GitHub onto your own machine (good if you just want to edit on your machine and don't want to repost onto GitHub).
-branch: a clone or fork of all the existing code which you can add changes to without effecting the master (good for experiments)
+branch: a clone or fork of all the existing code which you can add changes to without effecting the master (good for experiments).
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that you can check your changes against any new changes that have been made and decide whether you want to incorpret them. 
